@@ -7,7 +7,8 @@ Repository for my COMP30850 Network Analysis Class
 </ul>
 <h2>Lab 2</h2>
 <ul>
-<li></li>
+<li>Import and analyze network from GEXF file</li>
+<li>Plot sorted networks</li>
 </ul>
 <h2>Lab 3</h2>
 <ul>
