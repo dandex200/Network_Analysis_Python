@@ -12,5 +12,8 @@ Repository for my COMP30850 Network Analysis Class
 </ul>
 <h2>Lab 3</h2>
 <ul>
-<li></li>
+<li>Read CSV file of airports and flight data into Pandas Dataframe</li>
+<li>Parse and filter that data</li>
+<li>Create an unweighted directed network from that data</li>
+<li>Create a weight directed network from that data</li> 
 </ul>
