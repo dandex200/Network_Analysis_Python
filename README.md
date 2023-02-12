@@ -23,4 +23,10 @@ Repository for my COMP30850 Network Analysis Class
 <li>Identify and remove isolated nodes</li>
 <li>Create GEPHI visulaisation from GEXF file of created network</li>
 </ul>
-
+<h2>Lab 5</h2>
+<ul>
+  <li>Create Python DICT and Adjaceny Matrix from Two Text files of Irish rail Station Data</li>
+  <li>Identify Hubs and Peripheral Stations</li>
+  <li>Visualise Data as Seaborn Heatmap</li>
+  <li>Visualise GEXF of network in GEPHI</li>
+</ul>
