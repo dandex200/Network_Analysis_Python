@@ -17,3 +17,10 @@ Repository for my COMP30850 Network Analysis Class
 <li>Create an unweighted directed network from that data</li>
 <li>Create a weight directed network from that data</li> 
 </ul>
+<h2>Lab 4</h2>
+<ul>
+<li>Create Weighted Directed Network from two CSV files with correlating data</li>
+<li>Identify and remove isolated nodes</li>
+<li>Create GEPHI visulaisation from GEXF file of created network</li>
+</ul>
+
